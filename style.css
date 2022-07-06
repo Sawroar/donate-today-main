@@ -1,0 +1,100 @@
+/*Universal section started*/
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 100px 0px;
+}
+
+/*Universal section ended*/
+
+
+/*Top section started*/
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 610px;
+}
+
+.head-text {
+    text-align: center;
+    font-size: 70px;
+    color: white;
+
+}
+
+.p-text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+
+}
+
+.btn-color {
+    color: white;
+    text-decoration: none;
+    margin-left: 700px;
+    margin-right: 400px;
+    padding: 15px 30px;
+    background-color: rgb(243, 73, 43);
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+/*Top section started*/
+
+
+/*Donation section started*/
+.head-text-2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+    margin-top: 120px;
+}
+
+.p-text-2 {
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+
+.amount-text {
+    display: flex;
+    text-align: center;
+    height: 150px;
+
+    font-size: 20px;
+    padding-left: -2%;
+    padding-right: 5%;
+    margin-left: 25%;
+    margin-right: 20%;
+    background-color: rgb(241, 232, 232);
+}
+
+.taka-text {
+    text-align: center;
+    margin-left: 6%;
+    margin-right: 5%;
+    padding-top: 3%;
+
+}
+
+.taka-color {
+    padding-top: 3%;
+    border: 3px solid tomato;
+    padding-left: 25px;
+    padding-right: 30px;
+    margin-left: 21px;
+    border-radius: 5px;
+    color: tomato;
+}
