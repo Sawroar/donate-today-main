@@ -39,8 +39,8 @@ body {
     text-decoration: none;
     margin-left: 700px;
     margin-right: 400px;
-    padding: 15px 30px;
-    background-color: rgb(243, 73, 43);
+    padding: 15px 25px;
+    background-color: #ff5959;
     border-radius: 5px;
     font-size: 20px;
     margin-bottom: 50px;
@@ -78,7 +78,7 @@ body {
     padding-right: 5%;
     margin-left: 25%;
     margin-right: 20%;
-    background-color: rgb(241, 232, 232);
+    background-color: rgb(255, 246, 246);
 }
 
 .taka-text {
@@ -91,10 +91,223 @@ body {
 
 .taka-color {
     padding-top: 3%;
-    border: 3px solid tomato;
+    border: 3px solid #ff5959;
     padding-left: 25px;
     padding-right: 30px;
     margin-left: 21px;
     border-radius: 5px;
-    color: tomato;
+    color: #ff5959;
 }
+
+/*Donation section end*/
+
+/*food and shelter section start*/
+.h2-text {
+    text-align: center;
+    color: rgb(190, 182, 182);
+    font-size: 20px;
+    font-weight: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 60px;
+    margin-bottom: 70px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(224, 224, 228);
+}
+
+.food-icon {
+    width: 380px;
+    font-size: 20px;
+    padding: 2% 1%;
+    font-weight: 500px;
+
+    height: 280px;
+    margin: -3% 3% -3% 30%;
+    background-color: #edf5f6;
+}
+
+#food-text {
+    text-align: left;
+    font-size: 17px;
+
+    margin: 3% 15% -3% 1%;
+}
+
+.shelter-icon {
+    width: 420px;
+    font-size: 17px;
+    padding: -3%;
+    font-weight: 500px;
+    height: 280px;
+    margin: -0.5% 3% -10% 10%;
+    background-color: #ffeeee;
+}
+
+
+.shelter-text {
+    text-align: left;
+    font-size: 17px;
+    height: 280px;
+    padding: 10%;
+    margin: 3% 10% -3% 100%;
+    background-color: rgb(185, 182, 178);
+}
+
+.education-icon {
+    background-color: #fff4d6;
+    width: 420px;
+    font-size: 17px;
+    padding: -3%;
+    font-weight: 500px;
+    height: 280px;
+    margin: -0.5% 3% -50% -1%;
+}
+
+.education-text {
+    text-align: left;
+    font-size: 17px;
+    height: 280px;
+    padding: 10%;
+    margin: 3% 10% -3% 10%;
+    background-color: rgb(185, 182, 178);
+}
+
+/*food and  shelter section end*/
+
+/*All lives section start*/
+.common-area {
+    display: flex;
+}
+
+.use-section {
+    display: flex;
+    margin-top: 200px;
+    padding-left: 8%;
+
+}
+
+.use-section p {
+    color: gray;
+    font-size: 18px;
+}
+
+.use-section img {
+    width: 72%;
+    padding-right: 10%;
+    padding-left:
+
+}
+
+.use-section h1 {
+    font-size: 40px;
+}
+
+.size-section {
+    padding-right: 10%;
+}
+
+.half-widht {
+    width: 50%;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: #ff5959;
+    border-radius: 5px;
+}
+
+/*All lives section end*/
+
+/*Charity section started*/
+.charity {
+    display: flex;
+    margin: 120px 40px;
+    padding-left: 4%;
+}
+
+.charity a {
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: #ff5959;
+    border-radius: 5px;
+}
+
+
+.charity img {
+    padding-left: 40%;
+    width: 60%;
+}
+
+.more-charity {
+    text-align: justify;
+    margin-top: -30px;
+    font-size: 20px;
+}
+
+/*Charity section end*/
+
+
+/*Update section started*/
+.updt {
+    text-align: center;
+
+}
+
+.updt-text h2 {
+    font-size: 40px;
+    margin-top: -1px;
+    margin: 2% 35%;
+}
+
+.updt-text p {
+    font-size: 18px;
+    margin-top: -5px;
+    margin: 2% 32%;
+    color: grey;
+}
+
+.email-part {
+    height: 150px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: #fff4d6;
+}
+
+input[type=Email] {
+    padding: 5px;
+    width: 300PX;
+    height: 30px;
+    margin: 50px 150px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    padding: 15px 45px;
+    background-color: #ff5959;
+    margin: -10% -19%;
+    border-radius: 5px;
+}
+
+/*Update section end*/
+
+/*footer section started*/
+
+footer {
+    text-align: center;
+    margin-top: 120px;
+    height: 180px;
+    width: 100%;
+    padding-top: 5px;
+    background-color: rgb(14, 11, 24);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+/*footer section ended*/
